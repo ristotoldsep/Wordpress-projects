@@ -1,10 +1,11 @@
 # vDisain Projects
 ---
-Websites and online stores I have created (finished) in the workplace. Just to showcase my capabilities.
+Websites and online stores I have created (finished) or I've been part of in the workplace. Just to showcase my abilities, most projects are developed with Wordpress.
 
 * https://mistra.ee
 * https://tarmopilv.ee
 * https://octominer.eu/
+* https://ait-nord.ee
 * https://ajutrust.ee/
 * https://skarabeus.ee
 * https://computerlab.ee
@@ -24,3 +25,6 @@ Websites and online stores I have created (finished) in the workplace. Just to s
 * https://ekoteh.ee/
 * https://jtkeskus.eu/
 * https://imt.ee/
+* https://soojatooja.ee/
+* https://waltmann.ee/
+* https://sunservice.ee/
