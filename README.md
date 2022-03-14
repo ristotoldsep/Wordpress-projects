@@ -2,6 +2,7 @@
 ---
 Websites and online stores I have created (finished) or I've been part of in the workplace. Just to showcase my abilities, most projects are developed with Wordpress. Trying to update the list regularly.
 
+* https://sisustuskaup.ee
 * https://mistra.ee
 * https://tarmopilv.ee
 * https://octominer.eu/
@@ -28,3 +29,4 @@ Websites and online stores I have created (finished) or I've been part of in the
 * https://soojatooja.ee/
 * https://waltmann.ee/
 * https://sunservice.ee/
+* https://tartugraanul.eu
