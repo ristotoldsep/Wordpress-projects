@@ -3,6 +3,7 @@
 Websites and online stores I have created (finished) or I've been part of in the workplace. Just to showcase my abilities, most projects are developed with Wordpress. Trying to update the list regularly.
 
 * https://teadusstuudiod.ee/
+* https://emajoeresidents.ee/
 * https://sisustuskaup.ee
 * https://mistra.ee
 * https://tarmopilv.ee
@@ -10,9 +11,11 @@ Websites and online stores I have created (finished) or I've been part of in the
 * https://ait-nord.ee
 * https://ajutrust.ee/
 * https://skarabeus.ee
+* https://recander.ee
 * https://computerlab.ee
 * https://koduranna.ee
 * https://skywind.ee
+* https://powtec.ee
 * https://rimer.ee
 * https://dozerland.ee
 * https://laohaldus.ee
