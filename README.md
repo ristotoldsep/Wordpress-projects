@@ -6,6 +6,7 @@ Websites and online stores I have created (finished) or I've been part of in the
 * https://emajoeresidents.ee/
 * https://sisustuskaup.ee
 * https://mistra.ee
+* https://helitehas.ee
 * https://tarmopilv.ee
 * https://octominer.eu/
 * https://ait-nord.ee
@@ -35,5 +36,6 @@ Websites and online stores I have created (finished) or I've been part of in the
 * https://sunservice.ee/
 * https://tartugraanul.eu
 * https://colporgroup.eu/
+* https://trustehitus.eu/
 * https://helerin.ee
 * https://bgmmanagement.ee
