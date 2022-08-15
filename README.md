@@ -41,3 +41,4 @@ Websites and online stores I have created (finished) or I've been part of in the
 * https://trustehitus.eu/
 * https://helerin.ee
 * https://bgmmanagement.ee
+* https://freshrex.ee
