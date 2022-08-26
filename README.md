@@ -1,29 +1,33 @@
 # vDisain Projects
 ---
-Websites and online stores I have developed/designed (finished) or I've been part of in the workplace. 
+Websites and online stores I have developed/designed or I've been part of in the workplace. 
 Just to showcase my abilities, most projects are developed with Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs
+### Finished
 * https://soojapood.ee
 * https://octominer.eu
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
-* https://kemeri.vdisain.dev/
+* 
+* ### In development
+* https://kemeri.vdisain.dev
+* https://tollikoolitus.vdisain.dev
 * https://hifi.vdisain.dev
-* https://lahesuts.vdisain.dev/
-* https://cutrico2.vdisain.dev/
+* https://lahesuts.vdisain.dev
+* https://cutrico2.vdisain.dev
 
 ## Websites / Landing pages
-* https://teadusstuudiod.ee/
-* https://emajoeresidents.ee/
+* https://teadusstuudiod.ee
+* https://emajoeresidents.ee
 * https://mistra.ee
 * https://arssisustus.ee
 * https://relk.ee
 * https://helitehas.ee
 * https://tarmopilv.ee
 * https://ait-nord.ee
-* https://ajutrust.ee/
+* https://ajutrust.ee
 * https://skarabeus.ee
 * https://recander.ee
 * https://computerlab.ee
@@ -38,19 +42,20 @@ Just to showcase my abilities, most projects are developed with Wordpress. Tryin
 * https://survepesu247.ee
 * https://tumetamm.ee
 * https://remingtontrade.ee
-* https://semt.ee/
+* https://semt.ee
 * https://roneran.ee
-* https://ekoteh.ee/
-* https://jtkeskus.eu/
-* https://imt.ee/
-* https://soojatooja.ee/
-* https://waltmann.ee/
-* https://sunservice.ee/
+* https://ekoteh.ee
+* https://jtkeskus.eu
+* https://imt.ee
+* https://soojatooja.ee
+* https://waltmann.ee
+* https://sunservice.ee
 * https://tartugraanul.eu
-* https://colporgroup.eu/
-* https://trustehitus.eu/
+* https://colporgroup.eu
+* https://trustehitus.eu
 * https://helerin.ee
 * https://bgmmanagement.ee
 * https://freshrex.ee
 * https://mindreksmetall.eu
 * https://l-uks.ee
+* https://fixkindlustus.ee
