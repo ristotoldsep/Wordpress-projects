@@ -10,6 +10,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
+* https://vintagebazar.ee/
 
 #### In development
 * https://kemeri.vdisain.dev
