@@ -1,17 +1,17 @@
 # vDisain Projects
 ---
-Websites and online stores I have developed/designed or I've been part of in the workplace. 
-Just to showcase my abilities, most projects are developed with Wordpress. Trying to update the list regularly.
+Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects. 
+Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs
-### Finished
+#### Finished
 * https://soojapood.ee
 * https://octominer.eu
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
 * 
-* ### In development
+* #### In development
 * https://kemeri.vdisain.dev
 * https://tollikoolitus.vdisain.dev
 * https://hifi.vdisain.dev
@@ -19,6 +19,8 @@ Just to showcase my abilities, most projects are developed with Wordpress. Tryin
 * https://cutrico2.vdisain.dev
 
 ## Websites / Landing pages
+#### Finished
+* https://southwesternconsulting.com/
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
 * https://mistra.ee
@@ -59,3 +61,19 @@ Just to showcase my abilities, most projects are developed with Wordpress. Tryin
 * https://mindreksmetall.eu
 * https://l-uks.ee
 * https://fixkindlustus.ee
+* https://konest.ee
+
+
+#### In development
+* https://pike.vdisain.dev
+* https://connecto.vdisain.dev
+* https://novara.vdisain.dev
+* https://lgt.vdisain.dev
+* https://reme2.vdisain.dev
+* https://lellep.vdisain.dev
+* https://veod24.vdisain.dev
+* https://koristusfirma2.vdisain.dev/
+
+
+
+
