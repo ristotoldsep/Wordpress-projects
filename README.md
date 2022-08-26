@@ -3,7 +3,7 @@
 Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects. 
 Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
 
-## Online stores / Product Catalogs
+## Online stores / Product Catalogs 🛒
 #### Finished
 * https://soojapood.ee
 * https://octominer.eu
@@ -18,7 +18,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://lahesuts.vdisain.dev
 * https://cutrico2.vdisain.dev
 
-## Websites / Landing pages
+## Websites / Landing pages 🌐
 #### Finished
 * https://southwesternconsulting.com/
 * https://teadusstuudiod.ee
