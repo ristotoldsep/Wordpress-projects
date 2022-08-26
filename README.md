@@ -10,8 +10,8 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
-* 
-* #### In development
+
+#### In development
 * https://kemeri.vdisain.dev
 * https://tollikoolitus.vdisain.dev
 * https://hifi.vdisain.dev
@@ -63,7 +63,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://fixkindlustus.ee
 * https://konest.ee
 
-
 #### In development
 * https://pike.vdisain.dev
 * https://connecto.vdisain.dev
@@ -72,8 +71,4 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://reme2.vdisain.dev
 * https://lellep.vdisain.dev
 * https://veod24.vdisain.dev
-* https://koristusfirma2.vdisain.dev/
-
-
-
-
+* https://koristusfirma2.vdisain.dev
