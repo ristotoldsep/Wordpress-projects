@@ -9,7 +9,10 @@ Just to showcase my abilities, most projects are developed with Wordpress. Tryin
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
+* https://kemeri.vdisain.dev/
 * https://hifi.vdisain.dev
+* https://lahesuts.vdisain.dev/
+* https://cutrico2.vdisain.dev/
 
 ## Websites / Landing pages
 * https://teadusstuudiod.ee/
@@ -51,4 +54,3 @@ Just to showcase my abilities, most projects are developed with Wordpress. Tryin
 * https://freshrex.ee
 * https://mindreksmetall.eu
 * https://l-uks.ee
-
