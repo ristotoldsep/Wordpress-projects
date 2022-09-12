@@ -73,3 +73,5 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://lellep.vdisain.dev
 * https://veod24.vdisain.dev
 * https://koristusfirma2.vdisain.dev
+* https://betooni8.vdisain.dev
+* https://sole14.vdisain.dev
