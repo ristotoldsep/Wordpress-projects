@@ -1,6 +1,6 @@
 # vDisain Projects 👨‍💻
 ---
-Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects. 
+Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects for real clients. 
 Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs 🛒
@@ -63,6 +63,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://l-uks.ee
 * https://fixkindlustus.ee
 * https://konest.ee
+* https://gertoks.ee
 
 #### In development
 * https://pike.vdisain.dev
@@ -75,3 +76,4 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://koristusfirma2.vdisain.dev
 * https://betooni8.vdisain.dev
 * https://sole14.vdisain.dev
+* https://waytrans.vdisain.dev
