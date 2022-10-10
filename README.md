@@ -22,6 +22,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 ## Websites / Landing pages 🌐
 #### Finished
 * https://southwesternconsulting.com/
+* https://connecto.ee
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
 * https://mistra.ee
@@ -67,7 +68,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 #### In development
 * https://pike.vdisain.dev
-* https://connecto.vdisain.dev
 * https://novara.vdisain.dev
 * https://lgt.vdisain.dev
 * https://reme2.vdisain.dev
