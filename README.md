@@ -65,6 +65,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://fixkindlustus.ee
 * https://konest.ee
 * https://gertoks.ee
+* https://waytrans.ee
 
 #### In development
 * https://pike.vdisain.dev
@@ -76,4 +77,3 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://koristusfirma2.vdisain.dev
 * https://betooni8.vdisain.dev
 * https://sole14.vdisain.dev
-* https://waytrans.vdisain.dev
