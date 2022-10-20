@@ -1,4 +1,4 @@
-# vDisain Projects 👨‍💻
+# Portfolio / vDisain Projects 👨‍💻
 ---
 Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects for real clients. 
 Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
