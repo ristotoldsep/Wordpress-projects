@@ -68,6 +68,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://waytrans.ee
 
 #### In development
+* https://empai.vdisain.dev
 * https://pike.vdisain.dev
 * https://novara.vdisain.dev
 * https://lgt.vdisain.dev
