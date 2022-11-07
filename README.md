@@ -50,7 +50,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://tumetamm.ee
 * https://remingtontrade.ee
 * https://semt.ee
-* https://roneran.ee
 * https://ekoteh.ee
 * https://jtkeskus.eu
 * https://imt.ee
@@ -66,7 +65,8 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://konest.ee
 * https://gertoks.ee
 * https://arssisustus.ee
-* http://maintest.ee/
+* http://maintest.ee
+* https://roneran.ee
 
 
 #### In development
