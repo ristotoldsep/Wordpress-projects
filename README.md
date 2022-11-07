@@ -26,11 +26,14 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
 * https://mistra.ee
-* https://arssisustus.ee
-* https://relk.ee
-* https://helitehas.ee
-* https://tarmopilv.ee
 * https://ait-nord.ee
+* https://waytrans.ee
+* https://helitehas.ee
+* https://l-uks.ee
+* https://fixkindlustus.ee
+* https://freshrex.ee
+* https://relk.ee
+* https://tarmopilv.ee
 * https://ajutrust.ee
 * https://skarabeus.ee
 * https://recander.ee
@@ -59,13 +62,11 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://trustehitus.eu
 * https://helerin.ee
 * https://bgmmanagement.ee
-* https://freshrex.ee
 * https://mindreksmetall.eu
-* https://l-uks.ee
-* https://fixkindlustus.ee
 * https://konest.ee
 * https://gertoks.ee
-* https://waytrans.ee
+* https://arssisustus.ee
+
 
 #### In development
 * https://empai.vdisain.dev
