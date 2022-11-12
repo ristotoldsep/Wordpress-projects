@@ -13,6 +13,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://vintagebazar.ee/
 
 #### In development
+* https://pharma2.vdisain.dev
 * https://kemeri.vdisain.dev
 * https://tollikoolitus.vdisain.dev
 * https://hifi.vdisain.dev
