@@ -10,7 +10,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://sisustuskaup.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
-* https://vintagebazar.ee/
+* https://vintagebazar.ee
 
 #### In development
 * https://pharma2.vdisain.dev
@@ -22,7 +22,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 ## Websites / Landing pages 🌐
 #### Finished
-* https://southwesternconsulting.com/
+* https://southwesternconsulting.com
 * https://connecto.ee
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
@@ -69,6 +69,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://arssisustus.ee
 * http://maintest.ee
 * https://roneran.ee
+* https://sakuautokeskus.ee
 
 
 #### In development
@@ -82,7 +83,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://koristusfirma2.vdisain.dev
 * https://betooni8.vdisain.dev
 * https://sole14.vdisain.dev
-* https://sakuautokeskus.vdisain.dev/
-* https://poweron.vdisain.dev/
-* https://terasteel.vdisain.dev/
+* https://poweron.vdisain.dev
+* https://terasteel.vdisain.dev
+* https://saarekopp.vdisain.dev
 
