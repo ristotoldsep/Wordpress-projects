@@ -86,4 +86,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://poweron.vdisain.dev
 * https://terasteel.vdisain.dev
 * https://saarekopp.vdisain.dev
+* https://hooldemaja.vdisain.dev
+* https://jaagor.vdisain.dev/
 
