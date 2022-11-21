@@ -70,6 +70,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * http://maintest.ee
 * https://roneran.ee
 * https://sakuautokeskus.ee
+* https://laskko.ee/
 
 
 #### In development
