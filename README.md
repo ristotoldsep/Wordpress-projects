@@ -77,7 +77,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### In development
 * https://empai.vdisain.dev
 * https://taltechlegallab.vdisain.dev
-* https://ventures.vdisain.dev/
+* https://ventures.vdisain.dev
 * https://pike.vdisain.dev
 * https://novara.vdisain.dev
 * https://lgt.vdisain.dev
@@ -91,5 +91,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://terasteel.vdisain.dev
 * https://saarekopp.vdisain.dev
 * https://hooldemaja.vdisain.dev
-* https://jaagor.vdisain.dev/
+* https://jaagor.vdisain.dev
+* https://firstpharma.vdisain.dev
 
