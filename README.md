@@ -19,6 +19,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://hifi.vdisain.dev
 * https://lahesuts.vdisain.dev
 * https://cutrico2.vdisain.dev
+* https://strafehitus.vdisain.dev
 
 ## Websites / Landing pages 🌐
 #### Finished
@@ -30,7 +31,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://mistra.ee
 * https://ait-nord.ee
 * https://waytrans.ee
-* https://tulivee.ee/
+* https://tulivee.ee
 * https://helitehas.ee
 * https://l-uks.ee
 * https://fixkindlustus.ee
@@ -71,7 +72,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * http://maintest.ee
 * https://roneran.ee
 * https://sakuautokeskus.ee
-* https://laskko.ee/
+* https://laskko.ee
 
 
 #### In development
@@ -93,4 +94,5 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://hooldemaja.vdisain.dev
 * https://jaagor.vdisain.dev
 * https://firstpharma.vdisain.dev
+* https://jjstreet.vdisain.dev
 
