@@ -26,11 +26,13 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### Finished
 * https://southwesternconsulting.com
 * https://connecto.ee
+* https://empai.ee
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
 * https://hauakivid.ee
 * https://sole.eke.ee
 * https://lgt.ee
+* https://pike.ee
 * https://poweron.ee
 * https://mistra.ee
 * https://ait-nord.ee
@@ -81,10 +83,8 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 
 #### In development
-* https://empai.vdisain.dev
 * https://taltechlegallab.vdisain.dev
 * https://ventures.vdisain.dev
-* https://pike.vdisain.dev
 * https://novara.vdisain.dev
 * https://lellep.vdisain.dev
 * https://veod24.vdisain.dev
