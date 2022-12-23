@@ -80,6 +80,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://sakuautokeskus.ee
 * https://laskko.ee
 * https://reme.ee
+* https://jaja.ee
 
 
 #### In development
