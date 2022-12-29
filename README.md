@@ -81,6 +81,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://laskko.ee
 * https://reme.ee
 * https://jaja.ee
+* https://veod24.ee
 
 
 #### In development
@@ -88,7 +89,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://ventures.vdisain.dev
 * https://novara.vdisain.dev
 * https://lellep.vdisain.dev
-* https://veod24.vdisain.dev
 * https://betooni8.vdisain.dev
 * https://terasteel.vdisain.dev
 * https://saarekopp.vdisain.dev
