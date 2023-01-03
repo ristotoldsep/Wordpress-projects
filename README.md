@@ -21,6 +21,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://lahesuts.vdisain.dev
 * https://cutrico2.vdisain.dev
 * https://strafehitus.vdisain.dev
+* https://veoautovaruosad.vdisain.dev
 
 ## Websites / Landing pages 🌐
 #### Finished
