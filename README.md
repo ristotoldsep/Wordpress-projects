@@ -85,13 +85,13 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://veod24.ee
 * https://saarekopp.ee
 * https://betooni.eke.ee
+* https://novara.ee
 
 
 #### In development
 * https://taltechlegallab.vdisain.dev
 * https://tavast.vdisain.dev
 * https://ventures.vdisain.dev
-* https://novara.vdisain.dev
 * https://lellep.vdisain.dev
 * https://terasteel.vdisain.dev
 * https://hooldemaja.vdisain.dev
