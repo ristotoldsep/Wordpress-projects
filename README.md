@@ -89,6 +89,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 #### In development
 * https://taltechlegallab.vdisain.dev
+* https://tavast.vdisain.dev
 * https://ventures.vdisain.dev
 * https://novara.vdisain.dev
 * https://lellep.vdisain.dev
