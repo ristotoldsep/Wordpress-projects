@@ -26,6 +26,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 ## Websites / Landing pages 🌐
 #### Finished
 * https://southwesternconsulting.com
+* https://taltechlegallab.com
 * https://connecto.ee
 * https://empai.ee
 * https://teadusstuudiod.ee
@@ -76,7 +77,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://konest.ee
 * https://gertoks.ee
 * https://arssisustus.ee
-* http://maintest.ee
+* https://maintest.ee
 * https://roneran.ee
 * https://sakuautokeskus.ee
 * https://laskko.ee
@@ -87,10 +88,10 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://betooni.eke.ee
 * https://novara.ee
 * https://firstpharma.ee
+* https://ruumehitus.ee
 
 
 #### In development
-* https://taltechlegallab.vdisain.dev
 * https://tavast.vdisain.dev
 * https://ventures.vdisain.dev
 * https://lellep.vdisain.dev
@@ -98,6 +99,5 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://hooldemaja.vdisain.dev
 * https://jaagor.vdisain.dev
 * https://jjstreet.vdisain.dev
-* https://ruumehitus.vdisain.dev
 
 
