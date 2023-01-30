@@ -8,12 +8,12 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://soojapood.ee
 * https://octominer.eu
 * https://sisustuskaup.ee
+* https://www.pharmalead.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
 * https://vintagebazar.ee
 
 #### In development
-* https://pharma2.vdisain.dev
 * https://ehituskaubamaja.ee
 * https://kemeri.vdisain.dev
 * https://tollikoolitus.vdisain.dev
