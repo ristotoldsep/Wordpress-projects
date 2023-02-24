@@ -13,17 +13,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://koduranna.ee
 * https://vintagebazar.ee
 
-#### In development
-* https://saksavorst.vdisain.dev
-* https://ehituskaubamaja.ee
-* https://kemeri.vdisain.dev
-* https://tollikoolitus.vdisain.dev
-* https://hifi.vdisain.dev
-* https://lahesuts.vdisain.dev
-* https://cutrico2.vdisain.dev
-* https://strafehitus.vdisain.dev
-* https://veoautovaruosad.vdisain.dev
-
 ## Websites / Landing pages 🌐
 #### Finished
 * https://southwesternconsulting.com
@@ -92,14 +81,4 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://novara.ee
 * https://firstpharma.ee
 * https://ruumehitus.ee
-
-
-#### In development
-* https://ventures.vdisain.dev
-* https://lellep.vdisain.dev
-* https://terasteel.vdisain.dev
-* https://hooldemaja.vdisain.dev
-* https://jaagor.vdisain.dev
-* https://jjstreet.vdisain.dev
-
-
+* https://adella.eu
