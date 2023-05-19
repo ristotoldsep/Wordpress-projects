@@ -5,9 +5,11 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 ## Online stores / Product Catalogs 🛒
 #### Finished
-* https://soojapood.ee
-* https://octominer.eu
+* https://saksavorst.ee
 * https://sisustuskaup.ee
+* https://octominer.eu
+* https://tollikoolitus.eu
+* https://soojapood.ee
 * https://www.pharmalead.ee
 * https://bisontesolar.eu
 * https://koduranna.ee
