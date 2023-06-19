@@ -20,10 +20,12 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 ## Websites / Landing pages 🌐
 #### Finished
 * https://southwesternconsulting.com
+* https://paavli.ee
 * https://taltechlegallab.com
 * https://tavast.ee
 * https://connecto.ee
 * https://empai.ee
+* https://strafehitus.ee
 * https://teadusstuudiod.ee
 * https://emajoeresidents.ee
 * https://southwesternventures.com
