@@ -69,7 +69,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://imt.ee
 * https://soojatooja.ee
 * https://waltmann.ee
-* https://sunservice.ee
 * https://tartugraanul.eu
 * https://colporgroup.eu
 * https://trustehitus.eu
