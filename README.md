@@ -33,6 +33,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://emajoeresidents.ee
 * https://southwesternventures.com
 * https://hauakivid.ee
+* https://tarkpesa.ee
 * https://sole.eke.ee
 * https://lgt.ee
 * https://srg.edu.ee
