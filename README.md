@@ -23,6 +23,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### Finished
 * https://southwesternconsulting.com
 * https://paavli.ee
+* https://peetrilaod.ee
 * https://taltechlegallab.com
 * https://tavast.ee
 * https://connecto.ee
