@@ -18,6 +18,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://koduranna.ee
 * https://vintagebazar.ee
 * https://veoautovaruosad.ee
+* https://hektaur.eu
 
 ## Websites / Landing pages 🌐
 #### Finished
