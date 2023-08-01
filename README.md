@@ -97,3 +97,4 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://adella.eu
 * https://hooldemaja.ee
 * https://hakapontoon.ee
+* https://7kaiku.ee
