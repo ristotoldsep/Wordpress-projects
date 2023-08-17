@@ -24,6 +24,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### Finished
 * https://southwesternconsulting.com
 * https://paavli.ee
+* https://www.360ksiegowosc.pl
 * https://peetrilaod.ee
 * https://taltechlegallab.com
 * https://tavast.ee
@@ -98,3 +99,4 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://hooldemaja.ee
 * https://hakapontoon.ee
 * https://7kaiku.ee
+* https://kaihotell.ee
