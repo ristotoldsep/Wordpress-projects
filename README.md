@@ -50,6 +50,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://tulivee.ee
 * https://helitehas.ee
 * https://l-uks.ee
+* https://kinomaja.com
 * https://fixkindlustus.ee
 * https://freshrex.ee
 * https://relk.ee
