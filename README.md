@@ -8,6 +8,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://saksavorst.ee
 * https://cutrico.ee
 * https://rajakaameramuuk.ee
+* https://northnavia.een
 * https://sisustuskaup.ee
 * https://kemeri.ee
 * https://octominer.eu
@@ -19,6 +20,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://vintagebazar.ee
 * https://veoautovaruosad.ee
 * https://hektaur.eu
+* https://quadri.ee
 
 ## Websites / Landing pages 🌐
 #### Finished
@@ -104,3 +106,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://hakapontoon.ee
 * https://7kaiku.ee
 * https://kaihotell.ee
+* https://restoranmimosa.ee
+* https://kuuldeaparaadid.ee
+* https://hansaassets.eu
+  
