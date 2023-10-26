@@ -24,6 +24,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 
 ## Websites / Landing pages 🌐
 #### Finished
+* https://ait-nord.ee
 * https://southwesternconsulting.com
 * https://paavli.ee
 * https://www.360ksiegowosc.pl
@@ -49,7 +50,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://restmark.ee
 * https://poweron.ee
 * https://mistra.ee
-* https://ait-nord.ee
 * https://waytrans.ee
 * https://tulivee.ee
 * https://helitehas.ee
