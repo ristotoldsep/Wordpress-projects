@@ -7,6 +7,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### Finished
 * https://saksavorst.ee
 * https://vani.ee
+* https://yessport.ee/
 * https://cutrico.ee
 * https://rajakaameramuuk.ee
 * https://northnavia.een
