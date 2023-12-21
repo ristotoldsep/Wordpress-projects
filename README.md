@@ -7,10 +7,11 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 #### Finished
 * https://saksavorst.ee
 * https://vani.ee
-* https://yessport.ee/
+* https://newlook.ee
+* https://yessport.ee
 * https://cutrico.ee
 * https://rajakaameramuuk.ee
-* https://northnavia.een
+* https://northnavia.ee
 * https://sisustuskaup.ee
 * https://kemeri.ee
 * https://octominer.eu
@@ -32,6 +33,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://paavli.ee
 * https://www.360ksiegowosc.pl
 * https://peetrilaod.ee
+* https://profitly.ee
 * https://taltechlegallab.com
 * https://tavast.ee
 * https://connecto.ee
@@ -112,5 +114,5 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://restoranmimosa.ee
 * https://kuuldeaparaadid.ee
 * https://hansaassets.eu
-* https://südalinnaloomakliinik.ee/
+* https://südalinnaloomakliinik.ee
   
