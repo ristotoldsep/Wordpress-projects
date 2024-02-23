@@ -1,63 +1,59 @@
 # Portfolio / Wordpress Projects 👨‍💻
 ---
-Websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects for real clients. 
+Some of the websites and online stores I have developed/designed or I've been part of in the workplace / took on as freelance projects for real clients. 
 Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs 🛒
 #### Finished
+* https://newlook.ee
 * https://saksavorst.ee
-* https://newlook.ee
-* https://vani.ee
-* https://newlook.ee
-* https://yessport.ee
-* https://cutrico.ee
 * https://rajakaameramuuk.ee
-* https://northnavia.ee
+* https://cutrico.ee
+* https://hektaur.eu
 * https://sisustuskaup.ee
 * https://kemeri.ee
-* https://octominer.eu
 * https://tollikoolitus.eu
-* https://soojapood.ee
+* https://rer.ee
 * https://www.pharmalead.ee
-* https://bisontesolar.eu
-* https://koduranna.ee
+* https://northnavia.ee
 * https://vintagebazar.ee
+* https://vani.ee
+* https://koduranna.ee
 * https://veoautovaruosad.ee
-* https://hektaur.eu
 * https://quadri.ee
 
 ## Websites / Landing pages 🌐
 #### Finished
 * https://ait-nord.ee
-* https://elister.ee
 * https://southwesternconsulting.com
 * https://paavli.ee
 * https://www.360ksiegowosc.pl
+* https://tavast.ee
+* https://elister.ee
 * https://peetrilaod.ee
 * https://profitly.ee
 * https://taltechlegallab.com
-* https://tavast.ee
 * https://connecto.ee
-* https://empai.ee
 * https://p21.ee
+* https://hauakivid.ee
 * https://jjstreet.ee
 * https://strafehitus.ee
 * https://teadusstuudiod.ee
+* https://empai.ee
 * https://restoranmimosa.ee
 * https://emajoeresidents.ee
 * https://southwesternventures.com
-* https://hauakivid.ee
-* https://tarkpesa.ee
 * https://sole.eke.ee
 * https://lgt.ee
 * https://srg.edu.ee
+* https://mistra.ee
 * https://torg.ee
 * https://pike.ee
 * https://restmark.ee
 * https://poweron.ee
-* https://mistra.ee
 * https://waytrans.ee
 * https://tulivee.ee
+* https://betooni.eke.ee
 * https://helitehas.ee
 * https://l-uks.ee
 * https://kinomaja.com
@@ -66,9 +62,8 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://relk.ee
 * https://tarmopilv.ee
 * https://ajutrust.ee
-* https://skarabeus.ee
-* https://recander.ee
 * https://computerlab.ee
+* https://recander.ee
 * https://skywind.ee
 * https://powtec.ee
 * https://rimer.ee
@@ -77,6 +72,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://estlander.ee
 * https://vdesignly.com
 * https://vdisain.ee
+* https://gertoks.ee
 * https://survepesu247.ee
 * https://tumetamm.ee
 * https://remingtontrade.ee
@@ -84,35 +80,25 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://ekoteh.ee
 * https://jtkeskus.eu
 * https://imt.ee
-* https://soojatooja.ee
-* https://waltmann.ee
 * https://tartugraanul.eu
 * https://colporgroup.eu
 * https://trustehitus.eu
-* https://helerin.ee
 * https://bgmmanagement.ee
-* https://mindreksmetall.eu
 * https://konest.ee
-* https://gertoks.ee
 * https://arssisustus.ee
 * https://maintest.ee
-* https://roneran.ee
 * https://sakuautokeskus.ee
 * https://laskko.ee
 * https://reme.ee
 * https://jaja.ee
 * https://veod24.ee
-* https://saarekopp.ee
-* https://betooni.eke.ee
 * https://novara.ee
-* https://firstpharma.ee
 * https://ruumehitus.ee
 * https://adella.eu
 * https://hooldemaja.ee
 * https://hakapontoon.ee
 * https://7kaiku.ee
 * https://kaihotell.ee
-* https://restoranmimosa.ee
 * https://kuuldeaparaadid.ee
 * https://hansaassets.eu
 * https://südalinnaloomakliinik.ee
