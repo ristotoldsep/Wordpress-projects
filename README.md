@@ -1,6 +1,6 @@
 # Portfolio / Wordpress Projects 👨‍💻
 ---
-Some of the websites and online stores I have developed/designed or I've been part of in the workplace (https://vdisain.ee) / took on as freelance projects for real clients. 
+Some of the websites and online stores I have developed/designed or I've been part of in the workplace (<a href="https://vdisain.ee" target="_blank">vDisain</a>) / took on as freelance projects for real clients. 
 Just to showcase my abilities/portfolio, most projects are developed with Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs 🛒
