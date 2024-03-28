@@ -12,6 +12,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://cutrico.ee
 * https://hektaur.eu
 * https://sisustuskaup.ee
+* https://paradox.ee
 * https://kemeri.ee
 * https://tollikoolitus.eu
 * https://rer.ee
