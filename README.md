@@ -12,6 +12,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://cutrico.ee
 * https://hektaur.eu
 * https://sisustuskaup.ee
+* https://katharinenthal.ee
 * https://paradox.ee
 * https://kemeri.ee
 * https://tollikoolitus.eu
@@ -27,6 +28,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 ## Websites / Landing pages 🌐
 #### Finished
 * https://ait-nord.ee
+* https://www.plastekor.ee
 * https://southwesternconsulting.com
 * https://southwesternrecruitment.com
 * https://www.windakgroup.com
