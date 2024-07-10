@@ -52,6 +52,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://southwesternventures.com
 * https://sole.eke.ee
 * https://lgt.ee
+* https://atikesdoktorats.lv
 * https://srg.edu.ee
 * https://mistra.ee
 * https://torg.ee
