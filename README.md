@@ -9,7 +9,6 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://minukoer.ee
 * https://hydroseal.ee
 * https://saksavorst.ee
-* https://minukoer.ee
 * https://rajakaameramuuk.ee
 * https://cutrico.ee
 * https://hektaur.eu
