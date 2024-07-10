@@ -6,6 +6,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 ## Online stores / Product Catalogs 🛒
 #### Finished
 * https://newlook.ee
+* https://minukoer.ee
 * https://hydroseal.ee
 * https://saksavorst.ee
 * https://minukoer.ee
