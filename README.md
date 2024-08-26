@@ -39,6 +39,7 @@ Just to showcase my abilities/portfolio, most projects are developed with Wordpr
 * https://www.360ksiegowosc.pl
 * https://tavast.ee
 * https://elister.ee
+* https://silmaroom.ee
 * https://peetrilaod.ee
 * https://profitly.ee
 * https://taltechlegallab.com
