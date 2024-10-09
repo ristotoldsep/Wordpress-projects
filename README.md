@@ -100,6 +100,7 @@ Just to showcase my abilities/portfolio, most projects are developed with PHP/Wo
 * https://konest.ee
 * https://arssisustus.ee
 * https://maintest.ee
+* https://simpleworkservice.ee
 * https://sakuautokeskus.ee
 * https://laskko.ee
 * https://reme.ee
