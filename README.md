@@ -6,6 +6,7 @@ Just to showcase my abilities/portfolio, most projects are developed with PHP/Wo
 ## Online stores / Product Catalogs 🛒
 #### Finished
 * https://newlook.ee
+* https://filterplus.ee
 * https://minukoer.ee
 * https://hydroseal.ee
 * https://saksavorst.ee
