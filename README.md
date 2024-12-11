@@ -33,6 +33,7 @@ Just to showcase my abilities/portfolio, most projects are developed with PHP/Wo
 ## Websites / Landing pages 🌐
 #### Finished
 * https://kurzemesradio.lv
+* https://propaan.ee
 * https://ait-nord.ee
 * https://www.plastekor.ee
 * http://kurzemesradio.lv
