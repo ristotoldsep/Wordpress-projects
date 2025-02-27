@@ -1,11 +1,12 @@
 # Portfolio / Wordpress Projects 👨‍💻
 ---
-Some of the websites and online stores I have developed/designed or I've been part of in the workplace (<a href="https://vdisain.ee" target="_blank">vDisain</a>) / took on as freelance projects for real clients. 
+Some of the websites and online stores I have developed/designed or I've been part of in the workplace (<a href="https://vdisain.ee" target="_blank">vDisain</a>) / (<a href="https://reaktiiv.com" target="_blank">Reaktiiv</a>) / took on as freelance projects for real clients. 
 Just to showcase my abilities/portfolio, most projects are developed with PHP/Wordpress. Trying to update the list regularly.
 
 ## Online stores / Product Catalogs 🛒
 #### Finished
 * https://newlook.ee
+* https://www.salonplus.ee
 * https://filterplus.ee
 * https://minukoer.ee
 * https://hydroseal.ee
