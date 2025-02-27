@@ -36,7 +36,6 @@ Just to showcase my abilities/portfolio, most projects are developed with PHP/Wo
 * https://propaan.ee
 * https://ait-nord.ee
 * https://www.plastekor.ee
-* http://kurzemesradio.lv
 * https://southwesternconsulting.com
 * https://southwesternrecruitment.com
 * https://www.windakgroup.com
